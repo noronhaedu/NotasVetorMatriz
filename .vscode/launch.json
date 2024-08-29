@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "NotasVetorMatriz",
+            "request": "launch",
+            "mainClass": "appjava4.NotasVetorMatriz",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "NotasEscolares",
+            "request": "launch",
+            "mainClass": "appjava4.NotasEscolares",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "CalcIMC",
+            "request": "launch",
+            "mainClass": "appjava5.CalcIMC",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioAnoBissexto",
+            "request": "launch",
+            "mainClass": "Exercícios.ExercicioAnoBissexto",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioWhileSoma",
+            "request": "launch",
+            "mainClass": "Exercícios.ExercicioWhileSoma",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioMaiorNum",
+            "request": "launch",
+            "mainClass": "Exercícios.ExercicioMaiorNum",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "Continue",
+            "request": "launch",
+            "mainClass": "appjava4.Continue",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "appjava4.Break",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "NumeroPrimo",
+            "request": "launch",
+            "mainClass": "Exercícios.NumeroPrimo",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "appjava.App",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "appjava1.DoWhile",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "For",
+            "request": "launch",
+            "mainClass": "appjava1.For",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "VetorFor",
+            "request": "launch",
+            "mainClass": "appjava1.VetorFor",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "WhileDeterminado",
+            "request": "launch",
+            "mainClass": "appjava1.WhileDeterminado",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "WhileIndeterminado",
+            "request": "launch",
+            "mainClass": "appjava1.WhileIndeterminado",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "DesafioIf",
+            "request": "launch",
+            "mainClass": "appjava2.DesafioIf",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "If",
+            "request": "launch",
+            "mainClass": "appjava2.If",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "appjava3.Switch",
+            "projectName": "AppJava1_7e3cb127"
+        },
+        {
+            "type": "java",
+            "name": "SwitchNotas",
+            "request": "launch",
+            "mainClass": "appjava3.SwitchNotas",
+            "projectName": "AppJava1_7e3cb127"
+        }
+    ]
+}
