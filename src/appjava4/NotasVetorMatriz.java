@@ -49,6 +49,8 @@ public class NotasVetorMatriz {
                     + "\nResultado final: " + aluno[i][1]);
         }
 
+        System.out.println("Alterado no VS online.");
+
         entrada.close();
     }
 }
