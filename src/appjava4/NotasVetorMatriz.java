@@ -50,6 +50,7 @@ public class NotasVetorMatriz {
         }
 
         System.out.println("Alterado no VS online.");
+        System.out.println("Teste de push");
 
         entrada.close();
     }
